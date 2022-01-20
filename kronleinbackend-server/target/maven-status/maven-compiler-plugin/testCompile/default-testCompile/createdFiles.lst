@@ -1,0 +1,4 @@
+org\kro\createtestdata\Db.class
+org\kro\createtestdata\SkapaTestData.class
+org\kro\KroBeAppTests.class
+org\kro\customer\CustomerDBTest.class
